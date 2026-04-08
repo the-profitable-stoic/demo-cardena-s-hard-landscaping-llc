@@ -1,0 +1,548 @@
+{
+  "business": {
+    "name": "Cardena`s Hard Landscaping LLC",
+    "phone": "+16154740498",
+    "category": "landscaping company",
+    "city": "Nashville",
+    "state": "TN"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-trust-navy",
+      "categoryGroup": "roofing",
+      "name": "Trust Navy",
+      "recipeFile": "roofing/trust-navy.astro",
+      "colors": {
+        "primary": "#2C4563",
+        "primaryDark": "#1B2F45",
+        "primaryLight": "#D4E0ED",
+        "secondary": "#3D5A80",
+        "accent": "#3D6B5A",
+        "background": "#FFFFFF",
+        "backgroundAlt": "#2C4563",
+        "surface": "#F4F6F8",
+        "text": "#1A1A2E",
+        "textLight": "#4A5568",
+        "textOnDark": "#FFFFFF",
+        "border": "#E5E7EB"
+      },
+      "typography": {
+        "headingFont": "Playfair Display",
+        "headingWeight": "700",
+        "bodyFont": "Source Sans 3",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.25"
+      },
+      "shape": {
+        "borderRadius": "6px",
+        "buttonRadius": "6px",
+        "cardRadius": "10px",
+        "shadowStyle": "soft"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "dark",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/trust-navy"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Nashville's Hardscape Authority",
+      "heroSubline": "Cardena's Hard Landscaping delivers lasting beauty and value to your property. Expert design, build, and maintenance for discerning homeowners.",
+      "aboutTitle": "Built on Nashville Stone",
+      "aboutText": [
+        "Cardena's Hard Landscaping started with a simple goal: to bring enduring quality and craftsmanship to Nashville properties. We're a local company, born and raised in the heart of Tennessee, and we understand the unique challenges and opportunities our climate and landscape present.",
+        "We believe in doing things right the first time. From initial consultation to final installation, we prioritize clear communication, meticulous planning, and unwavering attention to detail. Our commitment is to exceed your expectations and create outdoor spaces that you'll enjoy for years to come.",
+        "We're proud to be part of the Nashville community. We source local materials whenever possible, support local businesses, and actively participate in community improvement projects. Your investment in Cardena's is an investment in Nashville."
+      ],
+      "valueProps": [
+        {
+          "title": "Local Expertise",
+          "description": "Deep understanding of Nashville's soil, climate, and architectural styles."
+        },
+        {
+          "title": "Unwavering Quality",
+          "description": "Premium materials and expert craftsmanship ensure lasting beauty and durability."
+        },
+        {
+          "title": "Custom Design",
+          "description": "Tailored solutions that reflect your unique vision and lifestyle."
+        },
+        {
+          "title": "Reliable Service",
+          "description": "Dedicated team committed to clear communication and on-time project completion."
+        }
+      ],
+      "ctaHeadline": "Transform Your Outdoor Space",
+      "ctaSubline": "Get a free consultation and discover the possibilities for your Nashville property."
+    },
+    "services": [
+      {
+        "slug": "patio-installation",
+        "name": "Patio Installation",
+        "shortDescription": "Crafting stunning patios that enhance your outdoor living space.",
+        "description": "Nashville's unpredictable weather demands patios built to last. Cardena's Hard Landscaping specializes in designing and installing patios that can withstand hot summers, occasional ice, and heavy spring rains. We work with a variety of materials, including flagstone, pavers, concrete, and even locally sourced limestone, to create a patio that complements your home's architecture and your personal style.\n\nOur patio installation process begins with a thorough site assessment, taking into account factors like drainage, sun exposure, and existing landscaping. We then work closely with you to develop a design that meets your needs and budget. Our experienced team handles all aspects of the installation, from excavation and base preparation to laying the surface material and adding finishing touches like seating walls or fire pits.\n\nWhether you're looking for a cozy space to relax with a book or a large patio for entertaining guests, Cardena's Hard Landscaping can bring your vision to life. We're committed to providing exceptional quality and customer service, ensuring that your patio is a beautiful and functional addition to your Nashville home.",
+        "process": [
+          "Step 1: Site Assessment & Design Consultation",
+          "Step 2: Material Selection & Budget Approval",
+          "Step 3: Excavation & Base Preparation",
+          "Step 4: Patio Installation & Finishing Touches"
+        ],
+        "benefits": [
+          "Increased property value",
+          "Enhanced outdoor living space",
+          "Durable and weather-resistant",
+          "Customized design to fit your style"
+        ],
+        "faq": [
+          {
+            "question": "What materials are best for Nashville patios?",
+            "answer": "Flagstone and pavers are popular choices due to their durability and aesthetic appeal. Concrete is a cost-effective option, while locally sourced limestone offers a unique, natural look."
+          },
+          {
+            "question": "How long does patio installation take?",
+            "answer": "The timeline varies depending on the size and complexity of the project, but most patio installations can be completed within a week or two."
+          },
+          {
+            "question": "Do I need a permit for a patio installation?",
+            "answer": "In some cases, a permit may be required, especially for larger patios or those that involve significant changes to the landscape. We can help you determine whether a permit is needed and assist with the application process."
+          }
+        ]
+      },
+      {
+        "slug": "retaining-walls",
+        "name": "Retaining Walls",
+        "shortDescription": "Building strong and beautiful retaining walls for erosion control and landscape design.",
+        "description": "Nashville's rolling hills and limestone bedrock often require retaining walls to prevent erosion and create usable outdoor spaces. Cardena's Hard Landscaping specializes in designing and building retaining walls that are both functional and aesthetically pleasing. We understand the importance of proper drainage and structural integrity, ensuring that your retaining wall will stand the test of time.\n\nWe work with a variety of materials, including concrete blocks, natural stone, and timber, to create retaining walls that complement your home's architecture and blend seamlessly with the surrounding landscape. Our experienced team handles all aspects of the construction process, from excavation and foundation preparation to wall assembly and backfilling.\n\nWhether you need a retaining wall to stabilize a hillside, create a level patio area, or add visual interest to your landscape, Cardena's Hard Landscaping can provide a solution that meets your needs and budget. We're committed to providing exceptional quality and customer service, ensuring that your retaining wall is a durable and attractive addition to your Nashville property.",
+        "process": [
+          "Step 1: Site Evaluation & Design",
+          "Step 2: Material Selection & Engineering",
+          "Step 3: Excavation & Foundation",
+          "Step 4: Wall Construction & Backfilling"
+        ],
+        "benefits": [
+          "Erosion control and soil stabilization",
+          "Increased usable space",
+          "Enhanced landscape aesthetics",
+          "Long-lasting durability"
+        ],
+        "faq": [
+          {
+            "question": "What is the best material for a retaining wall in Nashville?",
+            "answer": "Concrete blocks are a cost-effective and durable option, while natural stone offers a more aesthetically pleasing look. The best material depends on your budget, design preferences, and the specific requirements of the project."
+          },
+          {
+            "question": "How high can a retaining wall be built without a permit?",
+            "answer": "Nashville regulations typically require a permit for retaining walls over a certain height, often around 4 feet. Check with the Metro Codes Department for specific requirements."
+          },
+          {
+            "question": "How important is drainage for a retaining wall?",
+            "answer": "Proper drainage is crucial for the longevity of a retaining wall. Without adequate drainage, water pressure can build up behind the wall, leading to cracking, bulging, or even collapse."
+          }
+        ]
+      },
+      {
+        "slug": "driveway-installation",
+        "name": "Driveway Installation",
+        "shortDescription": "Creating durable and stylish driveways that enhance your curb appeal.",
+        "description": "A well-designed and properly installed driveway can significantly enhance the curb appeal and value of your Nashville home. Cardena's Hard Landscaping specializes in creating driveways that are both durable and aesthetically pleasing. We understand the importance of proper drainage and base preparation, ensuring that your driveway will withstand heavy traffic and Nashville's weather conditions.\n\nWe offer a variety of driveway materials, including asphalt, concrete, pavers, and gravel, to suit your style and budget. Our experienced team handles all aspects of the installation process, from excavation and grading to paving and sealing. We pay close attention to detail, ensuring that your driveway is smooth, level, and properly sloped for drainage.\n\nWhether you're looking to replace an old, cracked driveway or create a new driveway for a new construction project, Cardena's Hard Landscaping can provide a solution that meets your needs. We're committed to providing exceptional quality and customer service, ensuring that your driveway is a durable and attractive addition to your Nashville property.",
+        "process": [
+          "Step 1: Design & Material Selection",
+          "Step 2: Excavation & Grading",
+          "Step 3: Base Preparation & Compaction",
+          "Step 4: Driveway Installation & Sealing"
+        ],
+        "benefits": [
+          "Increased property value",
+          "Enhanced curb appeal",
+          "Durable and long-lasting",
+          "Improved drainage"
+        ],
+        "faq": [
+          {
+            "question": "What is the best material for a driveway in Nashville?",
+            "answer": "Concrete and asphalt are popular choices due to their durability and affordability. Pavers offer a more aesthetically pleasing look but are typically more expensive. Gravel is a budget-friendly option but requires more maintenance."
+          },
+          {
+            "question": "How thick should a driveway be?",
+            "answer": "A residential driveway should typically be at least 4 inches thick to withstand the weight of vehicles. For heavier vehicles or commercial applications, a thicker driveway may be required."
+          },
+          {
+            "question": "How often should a driveway be sealed?",
+            "answer": "Asphalt driveways should be sealed every 2-3 years to protect them from the elements and prevent cracking. Concrete driveways can be sealed less frequently, typically every 3-5 years."
+          }
+        ]
+      },
+      {
+        "slug": "outdoor-fire-pits",
+        "name": "Outdoor Fire Pits",
+        "shortDescription": "Designing and building custom fire pits for cozy outdoor gatherings.",
+        "description": "Extend your outdoor living season with a custom-built fire pit from Cardena's Hard Landscaping. Perfect for cool Nashville evenings, a fire pit creates a warm and inviting atmosphere for gathering with friends and family. We design and build fire pits to match your unique style and complement your existing landscaping.\n\nWe offer a variety of fire pit options, including wood-burning, gas-burning, and propane-burning models. We work with a range of materials, such as natural stone, brick, and concrete, to create a fire pit that is both beautiful and functional. Our experienced team handles all aspects of the construction process, from excavation and base preparation to fire pit assembly and gas line installation (if applicable).\n\nWhether you're looking for a simple fire pit for roasting marshmallows or a more elaborate fire pit with seating walls and built-in storage, Cardena's Hard Landscaping can bring your vision to life. We're committed to providing exceptional quality and customer service, ensuring that your fire pit is a safe and enjoyable addition to your Nashville property.",
+        "process": [
+          "Step 1: Design Consultation & Material Selection",
+          "Step 2: Site Preparation & Excavation",
+          "Step 3: Fire Pit Construction & Installation",
+          "Step 4: Gas Line Hookup (if applicable) & Safety Inspection"
+        ],
+        "benefits": [
+          "Extended outdoor living season",
+          "Enhanced ambiance and relaxation",
+          "Increased property value",
+          "Customized design to fit your style"
+        ],
+        "faq": [
+          {
+            "question": "What is the best material for an outdoor fire pit?",
+            "answer": "Natural stone and brick are popular choices due to their durability and aesthetic appeal. Concrete is a more affordable option, while metal fire pits offer a modern look."
+          },
+          {
+            "question": "Do I need a permit for a fire pit?",
+            "answer": "Nashville regulations may require a permit for certain types of fire pits, especially those that are gas-burning or located close to structures. Check with the Fire Marshal's office for specific requirements."
+          },
+          {
+            "question": "What safety precautions should I take with a fire pit?",
+            "answer": "Always keep a fire extinguisher or water hose nearby, and never leave a fire unattended. Ensure that the fire pit is located away from flammable materials, such as trees, fences, and buildings."
+          }
+        ]
+      },
+      {
+        "slug": "outdoor-kitchens",
+        "name": "Outdoor Kitchens",
+        "shortDescription": "Designing and building custom outdoor kitchens for ultimate outdoor entertaining.",
+        "description": "Take your outdoor entertaining to the next level with a custom-built outdoor kitchen from Cardena's Hard Landscaping. Perfect for grilling, cooking, and socializing, an outdoor kitchen transforms your backyard into a culinary oasis. We design and build outdoor kitchens to match your unique style and complement your existing landscaping.\n\nWe offer a variety of outdoor kitchen options, including built-in grills, countertops, sinks, refrigerators, and storage cabinets. We work with a range of materials, such as stainless steel, granite, and concrete, to create an outdoor kitchen that is both beautiful and functional. Our experienced team handles all aspects of the construction process, from design and planning to plumbing and electrical installation.\n\nWhether you're looking for a simple outdoor grill station or a fully equipped outdoor kitchen with all the amenities, Cardena's Hard Landscaping can bring your vision to life. We're committed to providing exceptional quality and customer service, ensuring that your outdoor kitchen is a durable and enjoyable addition to your Nashville property.",
+        "process": [
+          "Step 1: Design Consultation & Appliance Selection",
+          "Step 2: Site Preparation & Framing",
+          "Step 3: Plumbing & Electrical Installation",
+          "Step 4: Countertop & Appliance Installation"
+        ],
+        "benefits": [
+          "Enhanced outdoor entertaining",
+          "Increased property value",
+          "Convenient cooking and dining",
+          "Customized design to fit your style"
+        ],
+        "faq": [
+          {
+            "question": "What appliances should I include in my outdoor kitchen?",
+            "answer": "A grill is the most essential appliance, but you may also want to consider a side burner, refrigerator, sink, and storage cabinets. The best appliances depend on your cooking style and entertaining needs."
+          },
+          {
+            "question": "What materials are best for outdoor kitchen countertops?",
+            "answer": "Granite and concrete are popular choices due to their durability and weather resistance. Stainless steel is another option, offering a sleek and modern look."
+          },
+          {
+            "question": "Do I need a permit for an outdoor kitchen?",
+            "answer": "Nashville regulations may require a permit for outdoor kitchens, especially those that involve plumbing or electrical work. Check with the Metro Codes Department for specific requirements."
+          }
+        ]
+      },
+      {
+        "slug": "drainage-solutions",
+        "name": "Drainage Solutions",
+        "shortDescription": "Solving drainage problems to protect your property from water damage.",
+        "description": "Nashville's heavy rains and clay soil can lead to serious drainage problems, causing water damage to your home and landscape. Cardena's Hard Landscaping specializes in providing effective drainage solutions to protect your property from flooding, erosion, and foundation issues. We understand the importance of proper grading, downspout extensions, French drains, and other drainage techniques to redirect water away from your home.\n\nOur experienced team will assess your property's drainage issues and develop a customized solution that meets your needs and budget. We use high-quality materials and proven installation methods to ensure that your drainage system is durable and effective. We're committed to providing exceptional quality and customer service, ensuring that your property is protected from water damage for years to come.",
+        "process": [
+          "Step 1: Site Assessment & Problem Identification",
+          "Step 2: Drainage Plan Development",
+          "Step 3: Excavation & Installation",
+          "Step 4: Testing & Final Grading"
+        ],
+        "benefits": [
+          "Protection from water damage",
+          "Prevention of erosion and flooding",
+          "Improved property value",
+          "Healthier landscape"
+        ],
+        "faq": [
+          {
+            "question": "What are the signs of a drainage problem?",
+            "answer": "Common signs include standing water in your yard, erosion around your foundation, water in your basement, and soggy soil."
+          },
+          {
+            "question": "What is a French drain?",
+            "answer": "A French drain is a trench filled with gravel and a perforated pipe that redirects water away from your home or property."
+          },
+          {
+            "question": "How much does drainage correction cost?",
+            "answer": "The cost of drainage correction varies depending on the severity of the problem and the complexity of the solution. We provide free estimates to help you understand the costs involved."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Franklin",
+        "slug": "franklin-tn",
+        "state": "TN",
+        "content": "Cardena's Hard Landscaping LLC is proud to offer our expert landscaping services to the residents of Franklin, Tennessee. Known for its historic downtown and beautiful antebellum homes, Franklin presents unique landscaping challenges and opportunities. We understand the importance of preserving the character of these properties while enhancing their curb appeal and functionality.\n\nFrom designing elegant hardscapes that complement the architecture of historic homes to creating outdoor living spaces perfect for enjoying the hot, humid summers, our team has the experience and expertise to transform your Franklin property. We offer a full range of services, including patio and walkway installation, retaining wall construction, outdoor lighting, and landscape design tailored to the specific needs of Franklin's climate and soil conditions. We're dedicated to providing exceptional service and exceeding your expectations, whether you're looking to restore a historic garden or create a modern outdoor oasis.",
+        "localContext": "Franklin, TN, boasts a charming historic downtown area with many antebellum homes, requiring landscaping that respects the historical aesthetic while providing modern functionality and comfort during the hot, humid summers.",
+        "nearbyAreas": [
+          "Brentwood",
+          "Thompson's Station",
+          "Spring Hill"
+        ]
+      },
+      {
+        "city": "Murfreesboro",
+        "slug": "murfreesboro-tn",
+        "state": "TN",
+        "content": "Cardena's Hard Landscaping LLC provides comprehensive landscaping services to homeowners in Murfreesboro, Tennessee. As one of the fastest-growing cities in Tennessee, Murfreesboro features many affordable family developments. We specialize in creating beautiful and functional outdoor spaces that enhance the value and enjoyment of your home.\n\nOur services include everything from lawn care and landscape design to patio installation and outdoor kitchen construction. We understand the needs of Murfreesboro families and can create outdoor spaces that are perfect for entertaining, relaxing, or simply enjoying the beautiful Tennessee weather. We are committed to providing quality workmanship and excellent customer service at competitive prices.",
+        "localContext": "Murfreesboro, TN, is characterized by its numerous affordable family developments, necessitating landscaping solutions that are both budget-friendly and designed for family-friendly outdoor living during the hot, humid summers.",
+        "nearbyAreas": [
+          "Smyrna",
+          "La Vergne",
+          "Shelbyville"
+        ]
+      },
+      {
+        "city": "Brentwood",
+        "slug": "brentwood-tn",
+        "state": "TN",
+        "content": "Cardena's Hard Landscaping LLC is the premier landscaping provider for Brentwood, Tennessee. Known for its luxury estates and expansive wooded lots, Brentwood demands a level of sophistication and quality that we are proud to deliver. We specialize in creating breathtaking outdoor environments that complement the beauty of these properties.\n\nFrom custom-designed patios and outdoor kitchens to elegant water features and lush gardens, we can transform your Brentwood property into a private paradise. Our team of experienced landscape architects and skilled craftsmen will work closely with you to bring your vision to life. We use only the highest quality materials and employ the latest techniques to ensure lasting beauty and value.",
+        "localContext": "Brentwood, TN, is known for its luxury estates situated on large, wooded lots, requiring high-end landscaping services that enhance property value and blend seamlessly with the natural surroundings during the hot, humid summers.",
+        "nearbyAreas": [
+          "Franklin",
+          "Nashville",
+          "Nolensville"
+        ]
+      },
+      {
+        "city": "Hendersonville",
+        "slug": "hendersonville-tn",
+        "state": "TN",
+        "content": "Cardena's Hard Landscaping LLC is your trusted partner for all your landscaping needs in Hendersonville, Tennessee. Situated on the shores of Old Hickory Lake, Hendersonville boasts beautiful lakefront homes and a vibrant community. We specialize in creating outdoor spaces that take full advantage of the lake views and provide a relaxing and enjoyable environment.\n\nOur services include dock and shoreline landscaping, patio and deck construction, outdoor lighting, and landscape design that is both beautiful and functional. We understand the unique challenges of landscaping near the water and can provide solutions that are both aesthetically pleasing and environmentally responsible. We are committed to providing exceptional service and exceeding your expectations.",
+        "localContext": "Hendersonville, TN, features many lakefront homes along Old Hickory Lake, necessitating landscaping services that cater to waterfront properties and enhance the outdoor experience during the hot, humid summers.",
+        "nearbyAreas": [
+          "Gallatin",
+          "Goodlettsville",
+          "White House"
+        ]
+      },
+      {
+        "city": "Nashville",
+        "slug": "nashville-tn",
+        "state": "TN",
+        "content": "Cardena's Hard Landscaping LLC proudly serves the vibrant city of Nashville, Tennessee, offering a wide array of landscaping services tailored to the unique needs of its diverse neighborhoods. From the bustling downtown area to the historic homes in East Nashville and the modern developments in West Nashville, we understand the distinct character of each community.\n\nWe provide comprehensive landscaping solutions, including landscape design, installation, and maintenance. Whether you're looking to create a relaxing outdoor oasis, enhance your curb appeal, or maintain a pristine lawn, our team of experienced professionals is here to help. We are committed to providing exceptional service and exceeding your expectations, ensuring your Nashville property looks its best year-round.",
+        "localContext": "Nashville, TN, is a dynamic city with diverse neighborhoods, demanding landscaping services that cater to various architectural styles and outdoor living preferences, while withstanding the hot, humid summers.",
+        "nearbyAreas": [
+          "Brentwood",
+          "Franklin",
+          "Goodlettsville"
+        ]
+      },
+      {
+        "city": "Spring Hill",
+        "slug": "spring-hill-tn",
+        "state": "TN",
+        "content": "Cardena's Hard Landscaping LLC extends its exceptional services to Spring Hill, Tennessee, a rapidly growing community known for its family-friendly atmosphere and beautiful suburban landscapes. We specialize in creating outdoor spaces that enhance the value and enjoyment of your home, catering to the needs of Spring Hill's residents.\n\nOur services include landscape design, lawn care, hardscape installation, and seasonal maintenance. Whether you're looking to create a backyard retreat, install a new patio, or simply maintain a healthy and vibrant lawn, our team is dedicated to providing top-quality workmanship and unparalleled customer service. We understand the importance of creating outdoor spaces that are both beautiful and functional, tailored to the unique climate and lifestyle of Spring Hill.",
+        "localContext": "Spring Hill, TN, is a family-oriented community with a growing number of suburban homes, requiring landscaping services that prioritize family-friendly outdoor spaces and sustainable practices during the hot, humid summers.",
+        "nearbyAreas": [
+          "Columbia",
+          "Thompson's Station",
+          "Franklin"
+        ]
+      },
+      {
+        "city": "Gallatin",
+        "slug": "gallatin-tn",
+        "state": "TN",
+        "content": "Cardena's Hard Landscaping LLC is pleased to offer its expert landscaping services to the residents of Gallatin, Tennessee. As a charming city with a rich history and a growing community, Gallatin presents unique landscaping opportunities. We specialize in creating outdoor spaces that enhance the beauty and functionality of your property, reflecting the city's character.\n\nFrom designing inviting patios and walkways to installing lush gardens and maintaining healthy lawns, our team is dedicated to providing top-quality workmanship and exceptional customer service. We understand the importance of creating outdoor spaces that are both aesthetically pleasing and environmentally responsible, tailored to the specific needs of Gallatin's climate and soil conditions. We're committed to exceeding your expectations and helping you create the outdoor oasis of your dreams.",
+        "localContext": "Gallatin, TN, is a city with a blend of historic charm and modern development, necessitating landscaping that complements both traditional and contemporary architectural styles while providing comfortable outdoor living during the hot, humid summers.",
+        "nearbyAreas": [
+          "Hendersonville",
+          "Portland",
+          "White House"
+        ]
+      },
+      {
+        "city": "Smyrna",
+        "slug": "smyrna-tn",
+        "state": "TN",
+        "content": "Cardena's Hard Landscaping LLC is proud to serve the community of Smyrna, Tennessee, offering comprehensive landscaping services to enhance the beauty and functionality of your outdoor spaces. As a thriving town with a diverse range of properties, Smyrna presents unique landscaping challenges and opportunities. We specialize in creating customized solutions that meet the specific needs of our clients.\n\nOur services include landscape design, installation, and maintenance, as well as hardscape construction, such as patios, walkways, and retaining walls. Whether you're looking to create a relaxing backyard retreat, improve your curb appeal, or simply maintain a healthy and vibrant lawn, our team of experienced professionals is here to help. We are committed to providing exceptional service and exceeding your expectations, ensuring your Smyrna property looks its best year-round.",
+        "localContext": "Smyrna, TN, is a diverse community with a mix of residential and commercial properties, requiring landscaping services that cater to a variety of needs, from residential gardens to commercial grounds maintenance during the hot, humid summers.",
+        "nearbyAreas": [
+          "Murfreesboro",
+          "La Vergne",
+          "Antioch"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Sarah M.",
+        "rating": 5,
+        "service": "Patio Installation",
+        "text": "Cardena's team did an amazing job with our new patio! They helped us choose the perfect pavers to match our East Nashville bungalow, and the installation was quick and professional. We're already enjoying spending time outdoors!",
+        "date": "2024-07-15"
+      },
+      {
+        "name": "David B.",
+        "rating": 4,
+        "service": "Retaining Wall",
+        "text": "We had a tricky situation with a sloped backyard in Green Hills. Cardena's built a beautiful retaining wall that not only stabilized the hillside but also added a lot of character to our property. There was a minor hiccup with the initial design, but they quickly addressed it and made sure we were happy with the final result.",
+        "date": "2024-08-02"
+      },
+      {
+        "name": "Jessica L.",
+        "rating": 5,
+        "service": "Driveway Installation",
+        "text": "Our old asphalt driveway was cracked and crumbling. Cardena's removed it and installed a new concrete driveway that looks fantastic! The crew was professional and courteous, and they cleaned up everything perfectly. Highly recommend!",
+        "date": "2024-09-10"
+      },
+      {
+        "name": "Mike R.",
+        "rating": 5,
+        "service": "Outdoor Fire Pit",
+        "text": "We love our new fire pit! Cardena's helped us design a custom fire pit that fits perfectly with our outdoor space. It's the perfect spot for relaxing with friends and family on cool evenings. The gas line installation was seamless.",
+        "date": "2024-10-25"
+      },
+      {
+        "name": "Emily K.",
+        "rating": 4,
+        "service": "Drainage Solutions",
+        "text": "After a particularly heavy rain, we had major flooding in our backyard. Cardena's installed a French drain system that completely solved the problem. The team was knowledgeable and efficient, and the price was reasonable. We're very happy with the results.",
+        "date": "2024-11-12"
+      },
+      {
+        "name": "Tom S.",
+        "rating": 5,
+        "service": "Patio Installation",
+        "text": "Excellent work from start to finish! Cardena's transformed our backyard with a stunning new patio. Their attention to detail is incredible, and they were always responsive to our questions and concerns. We highly recommend them!",
+        "date": "2024-12-01"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Cardena's Hard Landscaping - Nashville, TN",
+        "description": "Nashville's premier hardscaping company. Patios, retaining walls, driveways, fire pits, and more. Free consultations."
+      },
+      "about": {
+        "title": "About Cardena's Hard Landscaping",
+        "description": "Learn about Cardena's Hard Landscaping's commitment to quality and service in Nashville, TN."
+      },
+      "services": {
+        "title": "Hardscaping Services - Nashville, TN",
+        "description": "Explore Cardena's Hard Landscaping's comprehensive services: patios, retaining walls, driveways, and more in Nashville."
+      },
+      "contact": {
+        "title": "Contact Cardena's Hard Landscaping",
+        "description": "Get in touch with Cardena's Hard Landscaping for a free consultation on your next hardscaping project in Nashville."
+      },
+      "reviews": {
+        "title": "Cardena's Hard Landscaping Reviews",
+        "description": "Read testimonials from satisfied Cardena's Hard Landscaping customers in Nashville, TN."
+      },
+      "service-areas": {
+        "title": "Cardena's Hard Landscaping Service Areas",
+        "description": "Cardena's Hard Landscaping: Serving Nashville, Franklin, Murfreesboro, Brentwood, and Hendersonville, TN."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "patio-installation": "/images/service-patio-installation.webp",
+      "retaining-walls": "/images/service-retaining-walls.webp",
+      "driveway-installation": "/images/service-driveway-installation.webp",
+      "outdoor-fire-pits": "/images/service-outdoor-fire-pits.webp",
+      "outdoor-kitchens": "/images/service-outdoor-kitchens.webp",
+      "drainage-solutions": "/images/service-drainage-solutions.webp"
+    },
+    "servicesResponsive": {
+      "patio-installation": {
+        "src": "/images/service-patio-installation.webp",
+        "srcset": "/images/service-patio-installation-400w.webp 400w, /images/service-patio-installation-800w.webp 800w, /images/service-patio-installation-1200w.webp 1200w, /images/service-patio-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "retaining-walls": {
+        "src": "/images/service-retaining-walls.webp",
+        "srcset": "/images/service-retaining-walls-400w.webp 400w, /images/service-retaining-walls-800w.webp 800w, /images/service-retaining-walls-1200w.webp 1200w, /images/service-retaining-walls.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "driveway-installation": {
+        "src": "/images/service-driveway-installation.webp",
+        "srcset": "/images/service-driveway-installation-400w.webp 400w, /images/service-driveway-installation-800w.webp 800w, /images/service-driveway-installation-1200w.webp 1200w, /images/service-driveway-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "outdoor-fire-pits": {
+        "src": "/images/service-outdoor-fire-pits.webp",
+        "srcset": "/images/service-outdoor-fire-pits-400w.webp 400w, /images/service-outdoor-fire-pits-800w.webp 800w, /images/service-outdoor-fire-pits-1200w.webp 1200w, /images/service-outdoor-fire-pits.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "outdoor-kitchens": {
+        "src": "/images/service-outdoor-kitchens.webp",
+        "srcset": "/images/service-outdoor-kitchens-400w.webp 400w, /images/service-outdoor-kitchens-800w.webp 800w, /images/service-outdoor-kitchens-1200w.webp 1200w, /images/service-outdoor-kitchens.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "drainage-solutions": {
+        "src": "/images/service-drainage-solutions.webp",
+        "srcset": "/images/service-drainage-solutions-400w.webp 400w, /images/service-drainage-solutions-800w.webp 800w, /images/service-drainage-solutions-1200w.webp 1200w, /images/service-drainage-solutions.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
